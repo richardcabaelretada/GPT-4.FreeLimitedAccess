@@ -7,35 +7,9 @@ Welcome to Chat AI! This is a simple web application that allows you to interact
 ## Features
 
 - User-friendly interface
-- Background color: #f1f1f1
-- Fonts: 'Inconsolata', monospace & 'Poppins'
-- Chatbox styling:
-  - Background color: #fff
-  - Border-radius: 10px
-  - Box shadow: 0 2px 6px rgba(0, 0, 0, 0.1)
-  - Max-width: 600px
-  - Margin: 0 auto
-  - Overflow-x: auto
-- Title:
-  - Text align: center
-  - Margin-bottom: 20px
-- Result styling:
-  - Background color: #f9f9f9
-  - Border-radius: 5px
-  - Padding: 10px
-  - Margin-top: 10px
-  - Font-family: monospace
-  - White-space: pre-wrap
-  - Overflow-x: auto
-- Footer:
-  - Text align: center
-  - Margin-top: 20px
-- Code block:
-  - Background color (code): #333
-  - Text color (code): #fff
-  - Padding: 15px
-  - Border-radius: 5px
-  - Overflow: auto
+- Free Access
+- GPT-4 Crack
+- Chatbox style
 
 ## Instructions
 
@@ -52,8 +26,8 @@ To use the Chat AI messaging system:
 
 To run this application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourgithubusername/yourrepository.git`
-2. Open the `index.html` file in your favorite web browser.
+1. Clone the repository: `git clone https://github.com/richardcabaelretada/GPT-4.FreeLimitedAccess`
+2. Open the `index.php` file in your favorite web browser.
 3. Enjoy interacting with Chat AI powered by GPT-4!
 
 ## Credits
@@ -63,4 +37,4 @@ Scraped gpt4 + gen bin was used to power the AI capabilities.
 
 ---
 
-*Note: This README is a description of how the repository works. If you are reading this on GitHub, you can view the actual web application by visiting the [live demo](https://yourgithubusername.github.io/yourrepository/).*
+*Note: This README is a description of how the repository works. If you are reading this on GitHub, you can view the actual web application by visiting the [live demo](https://freelimitedaccess.richardretada-official.repl.co/).*
